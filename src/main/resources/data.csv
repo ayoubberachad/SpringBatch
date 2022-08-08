@@ -1,0 +1,4 @@
+transaction_id,account_number,transaction_date,transaction_type,transaction_amount
+540300,10098436,17/10/2018-09:44,D,10000.570
+540250,10025445,18/10/2018-13:44,X,10000.560
+545400,10585436,19/10/2018-20:44,Z,10000.57
